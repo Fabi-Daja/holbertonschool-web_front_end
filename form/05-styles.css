@@ -703,10 +703,11 @@ textarea:focus {
     background-color:var(--color-white);
 }
 
-.form-group:focus-within{
-    background-color: color-light-grey;
-    transition: 0.3s;
+.form-group:focus-within {
+  background-color: var(--color-light-grey);
+  transition: 0.3s;
 }
+
 
 /* Form field
 ============================= */
